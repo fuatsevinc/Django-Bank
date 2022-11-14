@@ -9,7 +9,7 @@ https://github.com/fuatsevinc/Django-Bank.git
 ```
 **2.Setup Virtualenv & Install Requirements**
 ```sh
-virtualenv env
+python3 -m venv env
 source env/bin/activate
 pip install -r requirements.txt
 ```
@@ -24,4 +24,4 @@ python3 manage.py runserver
 ```
 
 ## Where to find Me
-visit My [Website](https://shyam999.github.io)
+visit My [Website](https://www.fuatsevinc.com/)
