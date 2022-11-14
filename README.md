@@ -1,11 +1,11 @@
-# Paragon Bank
+# Fuat Bank
 > Banking Website built on Django designed with Bootstrap
 ## Demo:
 ![](screenshot/bank.png)
 ## Installation:
 **1.Clone Repo**
 ```sh
-git clone https://github.com/shyam999/ParagonBank.git
+https://github.com/fuatsevinc/Django-Bank.git
 ```
 **2.Setup Virtualenv & Install Requirements**
 ```sh
@@ -15,12 +15,12 @@ pip install -r requirements.txt
 ```
 **3.Migrate Database**
 ```sh
-python manage.py makemigrations
-python manage.py migrate
+python3 manage.py makemigrations
+python3 manage.py migrate
 ```
 **4.Run Server**
 ```sh
-python manage.py runserver
+python3 manage.py runserver
 ```
 
 ## Where to find Me
